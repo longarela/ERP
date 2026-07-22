@@ -1,1 +1,1 @@
-run = "npm run install:all && npm run dev"
+run = "npm run dev --prefix server"
