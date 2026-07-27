@@ -1,0 +1,1 @@
+web: npm run seed --prefix server && npm run start --prefix server
