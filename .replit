@@ -1,1 +1,1 @@
-run = "npm run dev --prefix server"
+run = "npm run seed --prefix server && npm run dev --prefix server"
